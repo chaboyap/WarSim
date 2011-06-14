@@ -7,6 +7,7 @@
 
 #TODO
 #Implement war recurssion
+#Practice editing
 
 import random
 
