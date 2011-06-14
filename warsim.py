@@ -6,8 +6,7 @@
 #By Phillip Chaboya
 
 #TODO
-#IMPLEMENT WAR
-#WHEN PLAYER DOES NOT HAVE ANOTHER CARD AND A POT, PLAYER logic needed.
+#Implement war recurssion
 
 import random
 
